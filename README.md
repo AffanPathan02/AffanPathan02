@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Quantum Computing**
 
-- 📫 How to reach me **pathan.affan02@gmqail.com**
+- 📫 How to reach me **pathan.affan02@gmail.com**
 
 - ⚡ Fun fact **The Linux kernel, powering millions of devices, started as a university project by a 21-year-old.**
 
